@@ -28,7 +28,7 @@ linux ssh proxy
 
 ### 服务器开启反向隧道
 
-**修改`/etc/ssh/sshd_config`文件，如果没有添加即可 **
+**修改`/etc/ssh/sshd_config`文件，如果没有添加即可**
 
 ```text
 GatewayPorts yes
